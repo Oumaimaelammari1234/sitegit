@@ -1,0 +1,16 @@
+.titre{
+    border-radius: 15% ;
+   border: 2px solid #f4501d;
+   width: 30%;
+    text-align: center;
+   margin-left: 30%;
+}
+.titre1{
+    background-color: #f4501d ;
+}
+.para {
+    width: 50%;
+    text-align: justify;
+    margin-left: 25%;
+    margin-top: 5%;
+}
